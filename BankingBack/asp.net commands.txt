@@ -1,0 +1,1 @@
+ Scaffold-DbContext "Server=DESKTOP-IOE4MBJ\MYERPSERVER;Database=Banking_Management;User Id=sa;Password=Mohamed@2006;Trusted_Connection=True;TrustServerCertificate=true;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -DataAnnotations -NoOnConfiguring

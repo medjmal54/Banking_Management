@@ -1,0 +1,20 @@
+==============  Steps to open a new vite project  ============
+
+-- Step 1: Open Vs code 
+
+-- Step 2: powershell grant permission to run comands on the terminal of vs code
+                           1  ===         Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+                           2 ===         Then press ' O '
+
+Step 3 : Create your first vite project using this command 
+                            1  ==      npm create vite@latest
+                            2 ==      Type your project name
+                            3 ==       Type your package name (no Uppercase characters, No Blank Spaces)
+                            4 ==        Select your framework (Vite)
+                            5 ==        Select javascript or typeScript 
+
+Step 4 : Run ==>  npm install
+
+Step 5 : Run  ==>  npm run dev
+
+Step 6 : Run  ==>  npm install tailwindcss @tailwindcss/vite
